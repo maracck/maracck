@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @maracck
 - 👀 I’m interested in learning more about programming....
-- 🌱 I’m currently learning on how to code :3
+- 🌱 I’m currently learning on how to code using the java programming language :3
 - 📫 How to reach me.....
 
 

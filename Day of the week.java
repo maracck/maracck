@@ -1,3 +1,14 @@
+/*
+Create a Program that satisfy the following problems.
+
+1. Display the day of the week depending on the user's input.
+
+2. Display the Whole Week.
+
+3. Display the days range depending on the user's input.
+*/
+
+
 import java.util.Scanner;
 
 public class Main {
